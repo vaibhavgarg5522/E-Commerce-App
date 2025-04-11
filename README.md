@@ -1,8 +1,42 @@
-# React + Vite
+# 🛍️ E-Commerce App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **E-Commerce Website** built with **ReactJS**, designed for a seamless shopping experience with dynamic product listings and cart functionality.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [e-commerce-app-alpha-rust.vercel.app](https://e-commerce-app-alpha-rust.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🚀 Features
+
+- 🛒 Add to Cart & Remove functionality
+- 📦 Dynamic product display with responsive layout
+- 🔍 Clean UI with engaging interactions
+- 🧮 Real-time cart count and total
+- ⚙️ Component-based structure for easy scalability
+- 📱 Mobile-friendly and fully responsive
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** ReactJS, JavaScript, TailwindCSS
+- **State Management:** React Hooks, useState
+- **Routing:** React Router DOM
+- **Deployment:** Vercel
+
+---
+
+## 📁 Folder Structure
+
+```bash
+E-Commerce-App/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   └── App.jsx
+├── .gitignore
+├── README.md
+├── package.json
+└── tailwind.config.js
