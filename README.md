@@ -5,6 +5,9 @@ A modern and responsive **E-Commerce Website** built with **ReactJS**, designed 
 🔗 **Live Demo:** [e-commerce-app-alpha-rust.vercel.app](https://e-commerce-app-alpha-rust.vercel.app/)
 
 ---
+![Screenshot 2025-03-30 084643](https://github.com/user-attachments/assets/7c33b3a7-8554-469b-b5ef-2e2c75b4e7af)
+
+
 
 ## 🚀 Features
 
